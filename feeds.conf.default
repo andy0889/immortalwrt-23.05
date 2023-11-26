@@ -6,4 +6,3 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git lienol https://github.com/Lienol/openwrt-package
 src-git istore https://github.com/linkease/istore;main
-src-git quickstart https://github.com/animegasan/luci-app-quickstart
